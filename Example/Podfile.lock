@@ -1,0 +1,16 @@
+PODS:
+  - SoraDocuments (0.1.2)
+
+DEPENDENCIES:
+  - SoraDocuments (from `../`)
+
+EXTERNAL SOURCES:
+  SoraDocuments:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  SoraDocuments: c6c3a9aa8de6cfdd8e5971898b5f4dad16da5725
+
+PODFILE CHECKSUM: a750c36f900ef660b41bdb687e92fd9fb43e2f4e
+
+COCOAPODS: 1.6.1
